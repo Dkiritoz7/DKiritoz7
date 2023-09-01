@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello GitHub Fans 👋
 
-<!--
-**Dkiritoz7/DKiritoz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-Here are some ideas to get you started:
+### I'm DKiritoz7
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A Computer Science and Technology Undergraduate Student. 
+- 🌱 Currently studying in Southeast University.
+- 📖 A fresh man in coding, A lazy man in studying.
+- ⭐ I will share some labworks and leetcode algorithm problems.
+- ⚡ Life itself is the most wonderful fairy tale
+
+
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+
+⭐️ From [JoeyBling](https://github.com/JoeyBling)
