@@ -1,4 +1,4 @@
-![image](image.png)
+![image](image.jpg)
 ### I'm DKiritoz7
 
 - A Computer Science and Technology Undergraduate Student. 
