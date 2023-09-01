@@ -1,7 +1,4 @@
-
----
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-
+(image.jpg)
 ### I'm DKiritoz7
 
 - A Computer Science and Technology Undergraduate Student. 
